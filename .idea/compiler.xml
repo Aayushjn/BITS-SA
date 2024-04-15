@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="users.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="booking" target="21" />
+      <module name="booking.common" target="21" />
+      <module name="booking.common.main" target="21" />
+      <module name="booking.common.test" target="21" />
+      <module name="booking.main" target="21" />
+      <module name="booking.test" target="21" />
+      <module name="buses" target="21" />
+      <module name="buses.common" target="21" />
+      <module name="buses.common.main" target="21" />
+      <module name="buses.common.test" target="21" />
+      <module name="buses.main" target="21" />
+      <module name="buses.test" target="21" />
+      <module name="com.github.aayushjn.ecom.users.common" target="21" />
+      <module name="com.github.aayushjn.ecom.users.common.main" target="21" />
+      <module name="com.github.aayushjn.ecom.users.common.test" target="21" />
+      <module name="common" target="21" />
+      <module name="common.main" target="21" />
+      <module name="common.test" target="21" />
+      <module name="hotels" target="21" />
+      <module name="hotels.common" target="21" />
+      <module name="hotels.common.main" target="21" />
+      <module name="hotels.common.test" target="21" />
+      <module name="hotels.main" target="21" />
+      <module name="hotels.test" target="21" />
+      <module name="packages" target="21" />
+      <module name="packages.common" target="21" />
+      <module name="packages.common.main" target="21" />
+      <module name="packages.common.test" target="21" />
+      <module name="packages.main" target="21" />
+      <module name="packages.test" target="21" />
+      <module name="users" target="21" />
+      <module name="users.common" target="21" />
+      <module name="users.common.main" target="21" />
+      <module name="users.common.test" target="21" />
+      <module name="users.main" target="21" />
+      <module name="users.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

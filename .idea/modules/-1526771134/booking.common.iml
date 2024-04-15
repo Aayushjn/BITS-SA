@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":common" external.linked.project.path="$MODULE_DIR$/../../../common" external.root.project.path="$MODULE_DIR$/../../../booking" external.system.id="GRADLE" external.system.module.group="com.github.aayushjn.travelms" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../common">
+      <excludeFolder url="file://$MODULE_DIR$/../../../common/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../common/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="71a4ba1e-a607-4623-8455-0620fea70652" />
+  </component>
+</module>

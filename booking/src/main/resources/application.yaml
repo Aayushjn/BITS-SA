@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:db
+    driver-class-name: org.h2.Driver
+  mvc:
+    problemdetails:
+      enabled: true
+travelms:
+  services:
+    users: travelms-users:8080
+    packages: travelms-packages:8080

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BITS-SA.iml" filepath="$PROJECT_DIR$/.idea/BITS-SA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/booking.iml" filepath="$PROJECT_DIR$/booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/booking.common.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/booking.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/booking.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/booking.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/booking.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/booking.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/booking.main.iml" filepath="$PROJECT_DIR$/.idea/modules/booking.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/booking.test.iml" filepath="$PROJECT_DIR$/.idea/modules/booking.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buses.iml" filepath="$PROJECT_DIR$/buses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/buses.common.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/buses.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/buses.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/buses.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/buses.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/buses.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buses.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buses.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buses.test.iml" filepath="$PROJECT_DIR$/.idea/modules/buses.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotels.iml" filepath="$PROJECT_DIR$/hotels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/hotels.common.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/hotels.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/hotels.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/hotels.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/hotels.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/hotels.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hotels.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hotels.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hotels.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hotels.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages.iml" filepath="$PROJECT_DIR$/packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/packages.common.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/packages.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/packages.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/packages.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/packages.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/packages.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/packages.main.iml" filepath="$PROJECT_DIR$/.idea/modules/packages.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/packages.test.iml" filepath="$PROJECT_DIR$/.idea/modules/packages.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/users.iml" filepath="$PROJECT_DIR$/users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/users.common.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/users.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/users.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/users.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1526771134/users.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1526771134/users.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/users.main.iml" filepath="$PROJECT_DIR$/.idea/modules/users.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/users.test.iml" filepath="$PROJECT_DIR$/.idea/modules/users.test.iml" />
+    </modules>
+  </component>
+</project>
