@@ -7,5 +7,5 @@ spring:
       enabled: true
 travelms:
   services:
-    users: travelms-users:8080
-    packages: travelms-packages:8080
+    users: gateway/users
+    packages: gateway/packages

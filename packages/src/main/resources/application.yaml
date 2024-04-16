@@ -7,5 +7,5 @@ spring:
       enabled: true
 travelms:
   services:
-    hotels: travelms-hotels:8080
-    buses: travelms-buses:8080
+    hotels: gateway/hotels
+    buses: gateway/buses

@@ -19,10 +19,10 @@ public class TravelMsConfig {
     }
 
     public String getHotelsServiceUrl() {
-        return "http://" + services.hotels + "/hotels";
+        return "http://" + services.hotels;
     }
 
     public String getBusesServiceUrl() {
-        return "http://" + services.buses + "/buses";
+        return "http://" + services.buses;
     }
 }
